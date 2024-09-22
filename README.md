@@ -48,7 +48,7 @@ Brief description of the project, your role, and key achievements.
 - 📧 Email: [Your professional email]
 - 🐦 Twitter: [@TheLazyIndianTechie]
 - 🎮 LinkedIn: [https://linkedin.com/in/vinayvidyasagar](https://linkedin.com/in/vinayvidyasagar)
-- 🌐 Personal Website/Blog: [Your website URL]
+- 📺 YouTube: [https://youtube.com/@TheLazyIndianTechie](https://youtube.com/@TheLazyIndianTechie)
 
 ## Open Source Contributions
 
